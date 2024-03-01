@@ -1,0 +1,128 @@
+---
+title: "Résumé"
+author: "Kyle McFarren"
+date: "r Sys.Date()"
+output: 
+  stevetemplates::resume:
+    dev: cairo_pdf
+fontawesome: TRUE
+email: kyle.mcfarren@gmail.com
+phone: 630-272-4525
+location: "Chicago, IL"
+github: KyleMcF1636
+linkedin: "kylemcfarren"
+geometry: "top=.5in, left =.5in, right=.5in, bottom=.75in"
+mainfont: Times New Roman  #i wanted other fonts but was having knitting errors
+sansfont: Century
+urlcolor: blue
+fontsize: 11pt
+includephoto: TRUE
+myphoto: kylemcfarren.jpg
+# shift: "7in,-.25in" # this is default
+photobigness: 1.5cm
+# photozoom: ".2\textwidth" # this is default
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+
+Dedicated analytics professional pursuing a Master's in Civic Analytics,
+blending 20+ years of data-driven marketing leadership with a passion
+for leveraging analytics to drive positive societal impact. Proven
+project manager skilled in meeting client goals and advancing
+organizational capabilities. Seeking position to apply expertise in
+civic analytics and gain valuable experience in the non-profit/public
+service sector.
+
+::: columns
+::: {.column width="75%" data-latex="{0.75\\textwidth}"}
+# Professional Experience
+
+**NSA Media**, Lisle, IL 2000-2023
+
+**Director, Insights & Advanced Analytics**, 2013--2023
+
+• Supported Fortune 500 marketers and retailers with analytics-based
+media plans designed to support customized local trade areas.
+
+• Transformed diverse client KPIs into compelling narratives,
+effectively communicating complex data in a storytelling format that
+empowered stakeholders to grasp insights easily and take actionable
+steps toward strategic goals.
+
+• Collaborated with multiple client-side leads to effectively mine 1st
+party CRM data for marketing solutions.
+
+• Developed and continually enhanced multiple proprietary geospatial
+metrics that relied upon gravity models, predictive analytics or 3rd
+party research and syndicated data. Models served objectives of driving
+client ROI, growing sales, increasing foot or web traffic, building
+loyalty membership, streamlining coupon redemptions, identifying
+competitive opportunities, predicting grand opening success and managing
+budgets to the last dollar.
+
+• Established and refined organization's marketing test & measure
+capabilities across a variety of clients and media types using varying
+ranges of 1st party data, baseline industry metrics and client specific
+KPIs.
+
+• Managed critical team of data science experts working within Alteryx,
+Tableau, SPSS, & ArcGIS. Team maintained client data, built relational
+databases and ensured availability of relevant and clean data for the
+organization.
+
+*Previous Positions with NSA Media*
+
+o Manager, Special Projects & Demographics/Mapping, 2008-2013
+
+o Manager, Vendor Database & Media Research, 2008-2011
+
+o Analyst Specialist, Senior Analyst, Analyst, 2000-2008
+
+# Education
+
+**University of Illinois-Chicago**, 2023-2025 (expected)
+
+**Master of Science in Civic Analytics**, Current GPA 4.0
+
+*Coursework:* Data Management, Data Analytics, Coding Civic Data
+Applications, AI Machine Learning
+
+• Final course projects have included statistical analysis on the
+location of affordable rental housing developments in Chicago,
+development of a policy memo on expanding afterschool programs to all
+Chicago K-8 schools, and a visual analysis on changes to Chicago
+Departmental Budgets between the Lightfoot & Johnson administrations.
+
+**Elmhurst University**, Elmhurst, IL 1996-2000
+
+Bachelor of Science in Marketing; Art Minor
+:::
+
+::: {.column width="2%" data-latex="{0.02\\textwidth}"}
+  <!-- an empty div with an empty character to serve as a column sep -->
+:::
+
+::: {.column width="23%" data-latex="{0.23\\textwidth}"}
+# Skills
+
+Dashboard Development
+
+Tableau
+
+R
+
+Alteryx
+
+Test & Measure
+
+Design
+
+Storytelling with Data
+
+Technical Writing
+
+Public Speaking
+:::
+:::
