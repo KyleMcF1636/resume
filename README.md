@@ -1,2 +1,2 @@
 # resume
-Kyle McFarren Resume
+Kyle McFarren Resume hosted through github
